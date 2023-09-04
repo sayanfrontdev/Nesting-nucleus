@@ -10,7 +10,7 @@ ReactDOM.createRoot(document.getElementById("root")).render(
      domain="dev-njxfu5zkvura0lch.us.auth0.com"
      clientId="k3y3pC2wuheLp8somxAvesZPsEvH0B2s"
      authorizationParams={{
-      redirect_uri: "http://localhost:5173/"
+      redirect_uri: "https://nesting-nucleus-seven.vercel.app"
      }}
      audience="http://localhost:8000"
      scope="openid profile email"

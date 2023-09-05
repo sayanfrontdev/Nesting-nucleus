@@ -44,7 +44,7 @@ const Header = () => {
           >
             <NavLink to="/properties">Properties</NavLink>
 
-            <a href="sayanmandal72011902@gmail.com">Contact</a>
+            <a href="mailto:sayanmandal72011902@gmail.com">Contact</a>
 
             {/* add property */}
             <div onClick={handleAddPropertyClick}>Add Property</div>
